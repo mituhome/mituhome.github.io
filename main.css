@@ -2044,7 +2044,7 @@ label.color-white{color:#fff!important}
 .ms-navbar .navbar-brand img{display:inline-block;margin-right:10px}
 .ms-navbar .navbar-brand .ms-title strong{display:inline-block;font-weight:400}
 .ms-navbar .navbar-brand .ms-logo{margin-top:-5px;margin-right:10px}
-.ms-navbar .btn-navbar-menu{display:inline-block;color:#fff;height:50px;width:50px;line-height:80px;text-align:center;position:absolute;right:15px;top:0;font-size:21px;display:none}
+.ms-navbar .btn-navbar-menu{display:inline-block;color:#fff;height:50px;width:50px;line-height:50px;text-align:center;position:absolute;right:15px;top:0;font-size:21px;display:none}
 @-webkit-keyframes fadeInDownPerso{from{opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}to{opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}
 @keyframes fadeInDownPerso{from{opacity:0;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}to{opacity:1;-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}
 .ms-navbar .fadeInDownPerso{-webkit-animation-name:fadeInDownPerso;animation-name:fadeInDownPerso}
