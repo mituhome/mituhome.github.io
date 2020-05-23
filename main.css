@@ -534,7 +534,7 @@ body{background-color:#eee}
 body.inverse{background:#333}
 body.inverse,body.inverse .form-control{color:rgba(255,255,255,0.84)}
 body.inverse .modal,body.inverse .modal .form-control,body.inverse .panel-default,body.inverse .panel-default .form-control,body.inverse .card,body.inverse .card .form-control{background-color:initial;color:initial}
-body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4{font-family:Roboto,Noto Sans,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight:300}
+body,h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4{font-family:Roboto,Noto Sans,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight:490}
 h5,h6{font-weight:400}
 a,a:hover,a:focus{color:#333}
 a .material-icons,a:hover .material-icons,a:focus .material-icons{vertical-align:middle}
@@ -1314,7 +1314,7 @@ hr.on-light{color:white}
 .intro-hero-full{position:relative;width:100%}
 .intro-hero-full .intro-hero-full-content{position:absolute;top:50%;left:50%;width:100%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);z-index:1}
 html{font-size:10px;-webkit-font-smoothing:antialiased}
-body{color:#757575;background-color:#f5f5f5;font-family:Roboto,sans-serif;font-size:15px;font-size:1.5rem;font-weight:400;line-height:26px;line-height:2.6rem;-webkit-font-smoothing:antialiased;-webkit-tap-highcolor-light:transparent}
+body{color:#000000;background-color:#f5f5f5;font-family:Roboto,sans-serif;font-size:15px;font-size:1.5rem;font-weight:400;line-height:26px;line-height:2.6rem;-webkit-font-smoothing:antialiased;-webkit-tap-highcolor-light:transparent}
 body.bd-scroll{padding-top:50px}
 body .sb-site-container{-webkit-transform:none;transform:none;background-color:#f5f5f5;min-height:0}
 :focus{outline:none!important}
@@ -1365,7 +1365,7 @@ h6,h5{font-weight:700}
 .breadcrumb>li+li:before{font-size:16px;font-size:1.6rem;padding:0 8px;color:#616161;content:"\00bb"}
 a{color:#019468;transition:all ease .1s}
 a:hover,a:focus,a:active{text-decoration:none;color:#000}
-.lead{font-weight:300;font-size:20px;font-size:2rem}
+.lead{font-weight:400;font-size:20px;font-size:2rem}
 .lead.lead-xl{font-size:24px;font-size:2.4rem;font-weight:300}
 .lead.lead-lg{font-size:20px;font-size:2rem;font-weight:400}
 .lead.lead-md{font-size:17px;font-size:1.7rem;line-height:27px;line-height:2.7rem}
