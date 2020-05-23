@@ -2697,7 +2697,7 @@ pre.line-numbers>code{position:relative}
 @keyframes moveBack{0%{background-position:center center}50%{background-position:center 20%}100%{background-position:center center}}
 .wrap{padding:60px 0;padding:6rem 0}
 .wrap.wrap-mountain{background-color:#424242;color:#fafafa;background-image:url(../img/back_mountain.jpg);background-position:center center;background-size:cover;position:relative;-webkit-animation:moveBack;animation:moveBack;-webkit-animation-duration:30s;animation-duration:30s;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite}
-.wrap.wrap-mountain:after{display:block;content:"";position:absolute;z-index:0;left:0;right:0;top:0;bottom:0;width:100%;background-color:rgba(26,34,75,0.8)}
+.wrap.wrap-mountain:after{display:block;content:"";position:absolute;z-index:0;left:0;right:0;top:0;bottom:0;width:100%;background-color:rgba(5,95,65,0.5)}
 .wrap.wrap-mountain .container{position:relative;z-index:1}
 .wrap.wrap-danger{background-color:#019468;color:fff}
 .wrap.wrap-danger h1,.wrap.wrap-danger h2,.wrap.wrap-danger h3,.wrap.wrap-danger h4,.wrap.wrap-danger h5,.wrap.wrap-danger h6{color:#fff}
