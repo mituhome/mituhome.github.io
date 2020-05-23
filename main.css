@@ -2655,7 +2655,7 @@ pre.line-numbers>code{position:relative}
 @media (max-width:991px){.pricing-table-container{background-color:transparent;box-shadow:none}.pricing-table-content span{display:block}.pricing-table{background-color:#fff;box-shadow:0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.2),0 1px 5px 0 rgba(0,0,0,0.12);margin-bottom:4rem}}
 .ms-hero{margin-top:-40px;padding:30px 0 0;padding:3rem 0 0}
 .ms-hero.ms-hero-black{background-image:url(../img/black_wall.png);background-repeat:no-repeat;background-size:cover;background-position:center;color:#fff}
-.ms-hero.ms-hero-material{color:#f5f5f5;background-color:#122904;min-height:450px;position:relative;width:100%;overflow:hidden;z-index:0}
+.ms-hero.ms-hero-material{color:#f5f5f5;background-color:#0e5805;min-height:450px;position:relative;width:100%;overflow:hidden;z-index:0}
 @-webkit-keyframes heroBackOne{0%{height:0}100%{height:590%}}
 @keyframes heroBackOne{0%{height:0}100%{height:590%}}
 @-webkit-keyframes heroBackTwo{0%{height:0}100%{height:290%}}
