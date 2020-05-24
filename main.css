@@ -1243,7 +1243,7 @@ hr.on-light{color:white}
 .no-shadow{box-shadow:none!important}
 .font-smoothing{-webkit-font-smoothing:antialiased!important;-moz-osx-font-smoothing:grayscale!important}
 .separate-icons .btn-circle{margin:5px}
-.text-light{font-weight:200!important}
+.text-light{font-weight:500!important}
 .text-light strong{font-weight:300!important}
 .text-normal,.fw-400{font-weight:400!important}
 .text-normal strong,.fw-400 strong{font-weight:500!important}
