@@ -1348,7 +1348,7 @@ iframe{border:0;display:table}
 .bg-white{background-color:#fff}
 .color-dark li a{color:#424242}
 .color-dark li a:hover,.color-dark li a:focus{color:#019468}
-.ms-site-title{vertical-align:middle;display:inline-block;font-weight:200;word-spacing:-4px}
+.ms-site-title{vertical-align:middle;display:inline-block;font-weight:500;word-spacing:-4px}
 .ms-site-title span{font-weight:300}
 .btn-back-top{display:inline-block;position:fixed;left:auto;top:auto;bottom:-100px;right:20px;z-index:999999999;transition:all ease .5s}
 .btn-back-top.back-show{bottom:20px}
