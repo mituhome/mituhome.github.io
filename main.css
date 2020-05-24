@@ -2099,7 +2099,7 @@ label.color-white{color:#fff!important}
 .ms-navbar .navbar-nav li.dropdown.yamm-fw .dropdown-megamenu>li .row .megamenu-col .megamenu-block .megamenu-block-list li a i{transition:all ease .3s}
 .ms-navbar .navbar-nav li.dropdown.yamm-fw .dropdown-megamenu>li .row .megamenu-col .megamenu-block .megamenu-block-list li a:hover i,.ms-navbar .navbar-nav li.dropdown.yamm-fw .dropdown-megamenu>li .row .megamenu-col .megamenu-block .megamenu-block-list li a:focus i{margin-right:25px}
 .ms-navbar .navbar-nav li.dropdown.yamm-fw.open .dropdown-megamenu{display:block}
-.ms-navbar.ms-navbar-white{background-color:#fff}
+.ms-navbar.ms-navbar-white{background-color:#cecdcd}
 .ms-navbar.ms-navbar-white .navbar-brand{color:#424242}
 .ms-navbar.ms-navbar-white .btn-navbar-menu{color:#424242}
 .ms-navbar.ms-navbar-white .navbar-nav>li>a{color:#616161}
