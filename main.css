@@ -2467,7 +2467,7 @@ pre.line-numbers>code{position:relative}
 .nav-tabs-ver-container .nav-tabs-ver.nav-tabs-ver-success li a:hover{background-color:rgba(0,0,0,0.1)}
 .nav-tabs-ver-container .nav-tabs-ver.nav-tabs-ver-success li.active a{background-color:rgba(0,0,0,0.1)}
 @media (min-width:992px){.nav-tabs-ver-container>.row{overflow:hidden}.nav-tabs-ver-container>.row>[class*=col-]{margin-bottom:-99999px;padding-bottom:99999px}.nav-tabs-ver-container .nav-tabs-ver{margin-bottom:-99999px;padding-bottom:99999px;position:relative}.nav-tabs-ver-container .nav-tabs-ver:after{content:"";display:block;width:1px;position:absolute;z-index:10;box-shadow:-1px 0 1px 0 rgba(0,0,0,0.3);height:100%;top:0;right:0}.nav-tabs-ver-container-content{padding-left:0;padding-right:30px}}
-.card{box-shadow:none;box-shadow:0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.2),0 1px 5px 0 rgba(0,0,0,0.12);border-radius:2px;background-color:#4ae6b8;margin-bottom:20px;margin-bottom:2rem}
+.card{box-shadow:none;box-shadow:0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.2),0 1px 5px 0 rgba(0,0,0,0.12);border-radius:2px;background-color:#ffffff;margin-bottom:20px;margin-bottom:2rem}
 .card .plyr__controls{border-left:0;border-right:0}
 .card .card-block,.card.card-block{padding:20px;padding:2rem}
 .card .card-block p:last-child,.card.card-block p:last-child{margin-bottom:0}
