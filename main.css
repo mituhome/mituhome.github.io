@@ -3368,7 +3368,7 @@ form[name=contact-form] textarea::-webkit-input-placeholder{color:#f0f1f5}
 form[name=contact-form] textarea:-moz-placeholder{color:#f0f1f5}
 form[name=contact-form] textarea::-moz-placeholder{color:#f0f1f5}
 form[name=contact-form] textarea:-ms-input-placeholder{color:#f0f1f5}
-form[name=contact-form] label{font-size:14px;margin:0;line-height:0;color:#f0f1f5}
+form[name=contact-form] label{font-size:14px;margin:0;line-height:0;color:#019468}
 form[name=contact-form] input[type=text],form[name=contact-form] input[type=email],form[name=contact-form] textarea{background: #6bab82;width:100%;padding:10px;border:1px solid #6bab82;border-radius:3px;box-sizing:border-box;margin-top:6px;margin-bottom:16px;resize:vertical;outline:none;font-family:Roboto,Arial,sans-serif;font-size:14px;color:#f0f1f5}
 form[name=contact-form] input[type=text],form[name=contact-form] input[type=email],form[name=contact-form] input[type=submit]{height:40px}
 form[name=contact-form] textarea{height:90px}
