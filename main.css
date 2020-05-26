@@ -3156,7 +3156,7 @@ body.lb-disable-scrolling{overflow:hidden}
 .ms-conf-radio .form-group .radio label:hover,.ms-conf-radio .form-group .radio label:focus{color:#bdbdbd!important}
 .ms-footer{padding:12px 0;padding:1.2rem 0;text-align:center;background-color:#019468;color:#ddf70b;box-shadow:inset 0 2px 2px 0 rgba(0,0,0,0.14),inset 0 3px 1px -2px rgba(0,0,0,0.2),inset 0 1px 5px 0 rgba(0,0,0,0.12)}
 .ms-footer p:last-child{margin-bottom:0}
-.ms-footbar{background-color:#31bd94;color:#eee;position:relative;margin-top:40px;margin-top:4rem}
+.ms-footbar{background-color:#019468;color:#eee;position:relative;margin-top:40px;margin-top:4rem}
 .ms-footbar:after{content:"";display:block;position:absolute;width:100%;top:-10px;box-shadow:0 2px 2px 0 rgba(0,0,0,0.14),0 3px 1px -2px rgba(0,0,0,0.2),0 1px 5px 0 rgba(0,0,0,0.12);height:10px;z-index:1}
 .ms-footbar:before{content:"";display:block;position:absolute;width:100%;top:-15px;height:15px;z-index:2;background-color:#f5f5f5}
 .ms-footbar a{color:#fff;transition:all ease .3s}
@@ -3300,7 +3300,7 @@ body.lb-disable-scrolling{overflow:hidden}
 .wrap.wrap-mountain{background-image:url(https://1.bp.blogspot.com/-D8YofxpLhBk/XspFrEp7JXI/AAAAAAAAFb0/4U7lTItdufE9t0kaeDD_5t0yvjdepQf7wCLcBGAsYHQ/s1600/mituhome.jpg)}
 .ms-hero-page-override{margin-top:40px}
 .ms-hero-img-airplane{background-image:url(https://3.bp.blogspot.com/-_ykliVVY9-I/XIZXOunn8PI/AAAAAAAAOqA/IwOnNrTY740dNqx2QO84Oc1V1O-3Dp6-gCLcBGAs/s1600/backAirplane.jpg)}
-.ms-slidebar .ms-slidebar-header{background-image:url(https://1.bp.blogspot.com/-td47mc7rY-k/Xsy-zJBjgNI/AAAAAAAAFl8/v_UosFhgH60pEVJWIzMakxTCxK5ffwmvACLcBGAsYHQ/s200/bg-slidebar.png)}
+.ms-slidebar .ms-slidebar-header{background-image:url(https://1.bp.blogspot.com/-td47mc7rY-k/Xsy-zJBjgNI/AAAAAAAAFl8/v_UosFhgH60pEVJWIzMakxTCxK5ffwmvACLcBGAsYHQ/s300/bg-slidebar.png)}
 .lb-cancel{background:url(https://3.bp.blogspot.com/-bA3LgS-t2aU/XIZXribIoSI/AAAAAAAAOqQ/rH1_x9ln51U6Bpxh8ILCkgjcXS26FufxACLcBGAs/s1600/loading.gif) no-repeat}
 .ms-hero-img-meeting{background-image:url(https://2.bp.blogspot.com/-9a0Jqz1nwSo/XIZX1EspQ7I/AAAAAAAAOqY/nx6XZmUED_olVyhgbUUYG542fbng9ZkbACLcBGAs/s1600/meeting.jpg)}
 .lb-data .lb-close{background:url(https://1.bp.blogspot.com/-IYlmPSd7ylU/XIZX-5AJuxI/AAAAAAAAOqg/OHtwnRApxfI6zr7xgZx_MqsmCFDCfXopACLcBGAs/s1600/close.png) top right no-repeat}
