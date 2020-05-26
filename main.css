@@ -2749,7 +2749,7 @@ pre.line-numbers>code{position:relative}
 .ms-hero-bg-success:after{display:block;content:"";position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background-color:rgba(37,86,39,0.85);z-index:0}
 .ms-hero-bg-success .container{position:relative;z-index:1}
 .ms-hero-bg-dark-light{position:relative;color:#fff}
-.ms-hero-bg-dark-light:after{display:block;content:"";position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background-color:rgba(10,101,75,0.5);z-index:0}
+.ms-hero-bg-dark-light:after{display:block;content:"";position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background-color:rgba(10,101,75,0.95);z-index:0}
 .ms-hero-bg-dark-light .container{position:relative;z-index:1}
 .ms-hero-bg-dark-transparent{position:relative;color:#fff}
 .ms-hero-bg-dark-transparent:after{display:block;content:"";position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background-color:rgba(0,0,0,0.5);z-index:0}
