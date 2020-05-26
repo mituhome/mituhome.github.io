@@ -2731,7 +2731,7 @@ pre.line-numbers>code{position:relative}
 .ms-hero-bg-dark:after{display:block;content:"";position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background-color:rgba(2,2,2,0.85);z-index:0}
 .ms-hero-bg-dark .container{position:relative;z-index:1}
 .ms-hero-bg-primary{position:relative}
-.ms-hero-bg-primary:after{display:block;content:"";position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background-color:rgba(10,152,86,0.5);z-index:0}
+.ms-hero-bg-primary:after{display:block;content:"";position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background-color:rgba(10,152,86,0.95);z-index:0}
 .ms-hero-bg-primary .container{position:relative;z-index:1}
 .ms-hero-bg-info{position:relative}
 .ms-hero-bg-info:after{display:block;content:"";position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;background-color:rgba(0,75,85,0.85);z-index:0}
